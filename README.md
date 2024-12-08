@@ -1,4 +1,4 @@
-Multilingual PDF RAG System
+
 Overview
 This project implements a Retrieval-Augmented Generation (RAG) pipeline to process multilingual PDFs. It enables users to extract, query, and summarize information from PDFs in various languages, including Hindi, English, Bengali, and Chinese. The application leverages Streamlit for interaction and Google Generative AI for embeddings and conversational responses.
 
